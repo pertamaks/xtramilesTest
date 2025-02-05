@@ -11,7 +11,7 @@ This project contains a set of automated tests for the Computer Database applica
 ## Installation
 
 1. Copy the MySeleniumProject in your local machine
-2. Open the solution in Visual Studio and restore the dependencies packages by running following code
+2. Open the solution in Visual Studio or Windows PowerShell and restore the dependencies packages by running following code
 ```bash
     dotnet restore
 ```
