@@ -24,7 +24,7 @@ This project contains a set of automated tests for the Computer Database applica
 
 ## Running the Tests
 
-1. Open the Test Explorer in Visual Studio
+1. Open the Test Explorer in Visual Studio or Windows PowerShell
 2. Run the tests by executing this code in the terminal
 ```bash
     dotnet test
