@@ -16,6 +16,12 @@ This project contains a set of automated tests for the Computer Database applica
     dotnet restore
 ```
 
+## ChromeDriver Installation
+
+1. Download the ChromeDriver executable from the official ChromeDriver website: https://chromedriver.chromium.org/downloads
+2. Extract the executable to a directory on your machine (e.g. `C:\ChromeDriver`)
+3. Add the directory to your system's PATH environment variable
+
 ## Running the Tests
 
 1. Open the Test Explorer in Visual Studio
@@ -23,12 +29,6 @@ This project contains a set of automated tests for the Computer Database applica
 ```bash
     dotnet test
 ```
-
-## ChromeDriver Installation
-
-1. Download the ChromeDriver executable from the official ChromeDriver website: https://chromedriver.chromium.org/downloads
-2. Extract the executable to a directory on your machine (e.g. `C:\ChromeDriver`)
-3. Add the directory to your system's PATH environment variable
 
 ## Troubleshooting
 
